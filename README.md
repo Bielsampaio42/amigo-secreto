@@ -1,7 +1,7 @@
 <h1>Jogo do amigo secreto</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Desafio do amigo secreto, Alterando algumas funcionalizações.</p>
+<p>Desafio do amigo secreto, com complemento de algumas funcionalidades.</p>
 
 ## 🚀 Tecnologias
 <div>
