@@ -13,7 +13,7 @@ function exibirTextoNaTela(tag, texto) {
 // Exibe a mensagem inicial do jogo
 function exibirMensagemInicial() {
     exibirTextoNaTela('h1', 'Jogo do Amigo Secreto');
-    exibirTextoNaTela('h2', 'Digite o nome dos participantes e clique em sortear!');
+    exibirTextoNaTela('h2', 'Digite o nome dos participantes!');
 }
 
 // Chama a função para exibir a mensagem inicial quando a página carrega
