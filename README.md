@@ -12,5 +12,5 @@
 
 # Time
 
-[<img loading="lazy" src="https://github.com/Bielsampaio42/amigo-secreto/blob/main/challenge-amigo-secreto_pt-main/perfil.jpeg" width=115><br><sub>Gabriel Sampaio</sub>](https://github.com/Bielsampaio42)
+[<img loading="lazy" src="https://github.com/Bielsampaio42/amigo-secreto/blob/main/assets/perfil.jpeg" width=115><br><sub>Gabriel Sampaio</sub>](https://github.com/Bielsampaio42)
 | :---: |
